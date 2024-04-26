@@ -1,5 +1,4 @@
-<h1>Projeto 2 - Treinamento da Impacta</h1>
-<h2>Sistema de Controle: Cadastro de Aluno</h2>
+<h1>Projeto 2 - Sistema de Controle: Cadastro de Aluno</h1>
 
 <hr>
 
